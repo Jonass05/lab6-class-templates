@@ -122,7 +122,7 @@ int main()
     // TODO (Part E): Add two dummy duration values to that log.
     // TODO (Part E): Use contains with one value that exists and one that does not exist.
     // TODO (Part E): Print descriptive English labels for all results.
-
+/*
     MetricLog<double> sessionDurations;
 
     sessionDurations.add(12.5);
@@ -131,6 +131,6 @@ int main()
     cout << "Session durations: " << sessionDurations.size() << endl;
     cout << "Contains 12.5: " << (sessionDurations.contains(12.5) ? "True" : "False") << endl;
     cout << "Contains 15.0: " << (sessionDurations.contains(15.0) ? "True" : "False") << endl;
-
+*/
     return 0;
 }
